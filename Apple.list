@@ -1,0 +1,29 @@
+＃ 苹果
+# 一般国内Apple肯定正常,不需要开代理
+域，apple.comscoreresearch.com
+域后缀，aaplimg.com
+域名后缀，akadns.net
+域后缀，apple-cloudkit.com
+域名后缀，apple.co
+域后缀，apple.com
+域名后缀,apple.com.cn
+域后缀，apple.news
+域后缀，appstore.com
+域名后缀,cdn-apple.com
+域后缀，crashlytics.com
+域后缀，icloud-content.com
+域后缀，icloud.com
+域名后缀,icloud.com.cn
+域后缀，itunes.com
+域名后缀,me.com
+域后缀，mzstatic.com
+IP-CIDR,17.0.0.0/8,no-resolve
+IP-CIDR,63.92.224.0/19,no-resolve
+IP-CIDR,65.199.22.0/23,no-resolve
+IP-CIDR,139.178.128.0/18,no-resolve
+IP-CIDR,144.178.0.0/19,no-resolve
+IP-CIDR,144.178.36.0/22,no-resolve
+IP-CIDR,144.178.48.0/20,no-resolve
+IP-CIDR,192.35.50.0/24,no-resolve
+IP-CIDR,198.183.17.0/24,no-resolve
+IP-CIDR,205.180.175.0/24,no-resolve
